@@ -26,10 +26,10 @@ We have other kernels available on the platform. These are from CyberGISX. These
 
 Type this command in Jupyterhub's terminal to view a specific kernel on I-GUIDE
 
-conda env export --p /cvmfs/iguide.purdue.edu/software/conda/<kernel_name>
+`conda env export --p /cvmfs/iguide.purdue.edu/software/conda/<kernel_name>`
 
 
 You can view a list of kernels by typing
 
-ls /cvmfs/iguide.purdue.software/conda/
+`ls /cvmfs/iguide.purdue.software/conda/`
 
